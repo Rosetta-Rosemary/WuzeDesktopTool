@@ -1,0 +1,11 @@
+QPushButton{
+    color:#FF6347;background-color:#FF6347;border-style:outset;
+    border-width:2px;border-color:#FF4500;border-radius:11px;padding:4px;}
+
+QPushButton:hover{
+    color:#FF0000;background-color:#FF0000;border-style:outset;
+    border-width:2px;border-color:#FF4500;border-radius:11px;padding:4px;}
+    
+QPushButton:checked{
+    color:#F08080;background-color:#F08080;border-style:outset;
+    border-width:2px;border-color:#FF4500;border-radius:11px;padding:4px;}
